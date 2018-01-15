@@ -1,0 +1,7 @@
+spring:
+#  数据库
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost/meeting?characterEncoding=UTF-8&useSSL=true
+    username: root
+    password: root
